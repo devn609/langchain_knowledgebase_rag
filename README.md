@@ -36,16 +36,10 @@ copy .env.example .env
 ## Web UI
 
 ```bash
-streamlit run app/web.py
+streamlit run main.py
 ```
 
-Open the URL Streamlit prints, upload documents, click **Index documents**, then ask questions.
-
-Health check:
-
-```bash
-curl http://127.0.0.1:8000/health
-```
+Open the URL Streamlit prints, upload documents, click **Build Knowledgebase**, then ask questions.
 
 ## RAG behavior
 
