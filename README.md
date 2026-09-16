@@ -46,7 +46,7 @@ Open the URL Streamlit prints, upload documents, click **Build Knowledgebase**, 
 The bot:
 
 - splits documents into chunks;
-- creates embeddings ;
+- creates embeddings;
 - stores normalized vectors in a local FAISS index;
 - retrieves the most relevant chunks;
 - sends only retrieved context to the chat model;
