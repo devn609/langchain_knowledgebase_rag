@@ -1,6 +1,6 @@
 # Knowledgebase Q&A — RAG
 
-A complete Python RAG application for asking questions over CSV knowledgebase.
+A complete Python RAG application for asking questions over knowledgebase (FAQs in CSV file).
 
 ## Requirements
 
