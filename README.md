@@ -1,11 +1,11 @@
 # Knowledgebase Q&A — RAG
 
-A complete Python RAG application for asking questions over knowledgebase (FAQs in CSV file).
+A complete Python RAG application for asking questions over knowledgebase (FAQs in CSV file)
 
 ## Requirements
 
 - Python 3.10+
-- An Google API key
+- Google API key
 
 ## Setup
 
